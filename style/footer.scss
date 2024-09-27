@@ -1,0 +1,27 @@
+$secondary-color: #f9f8f8;
+$gradient-color: #5e5e5e;
+$text-color: #000000;
+
+/* Mixin per il gradient*/
+@mixin gradient($from, $to) {
+    background: linear-gradient(to left, $from, $to);
+  }
+footer {
+  @include gradient($gradient-color, $secondary-color);
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    width: 100%;
+  
+    a {
+      text-align: center;
+      padding: 10px 0;
+      margin-top: 20px;
+      width: 100%;
+      justify-content: center;
+      margin-left: 10px;
+    
+  
+    
+  }
+}

@@ -1,0 +1,30 @@
+{
+    "home": {
+        "title": "Home Page",
+        "content": "Benvenuti nella mia pagina principale.",
+         "primo" : "BENVENUTO!",
+        "paragrafo" : "Esplora il mio sito!",
+        "contenuto" : "Lorem ipsup Lorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsup"
+    },
+    "aboutme": {
+        "title": "Chi Sono",
+        "titolo" : "ABOUT ME",
+        "titolo2" : "MY HOBBIES",
+        "contenuto" : "Lorem ipsup Lorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsupLorem ipsup",
+        "content": "Sono un web designer con esperienza in vari progetti.",
+         "primo" : "BENVENUTO!",
+        "paragrafo" : "Esplora il mio sito!"
+    },
+  
+    "contatti": {
+        "title": "Contattami",
+        "content": "Per favore, sentiti libero di contattarmi tramite email o telefono."
+    }
+  
+   
+   
+}
+
+
+
+

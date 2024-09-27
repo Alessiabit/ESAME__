@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "WEB DESIGNER",
+    "image": "img/webdesigner.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, eius doloribus consectetur ab eligendi aut neque deleniti voluptas tempora iusto! Corrupti repellat maiores dignissimos. Architecto temporibus laboriosam quo recusandae nemo."
+  },
+  {
+    "id": 2,
+    "title": "AVVOCATO",
+    "image": "img/avvocato.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, eius doloribus consectetur ab eligendi aut neque deleniti voluptas tempora iusto! Corrupti repellat maiores dignissimos. Architecto temporibus laboriosam quo recusandae nemo."
+  },
+  {
+    "id": 3,
+    "title": "GIORNALISTA",
+    "image": "img/giornalista.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, eius doloribus consectetur ab eligendi aut neque deleniti voluptas tempora iusto! Corrupti repellat maiores dignissimos. Architecto temporibus laboriosam quo recusandae nemo."
+  },
+  {
+    "id": 4,
+    "title": "FRONT END DEVELOPER",
+    "image": "img/front.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, eius doloribus consectetur ab eligendi aut neque deleniti voluptas tempora iusto! Corrupti repellat maiores dignissimos. Architecto temporibus laboriosam quo recusandae nemo."
+  },
+  {
+    "id": 5,
+    "title": "SOCIAL MEDIA MANAGER",
+    "image": "img/social.jpg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, eius doloribus consectetur ab eligendi aut neque deleniti voluptas tempora iusto! Corrupti repellat maiores dignissimos. Architecto temporibus laboriosam quo recusandae nemo."
+  }
+]
